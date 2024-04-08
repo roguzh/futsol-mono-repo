@@ -1,0 +1,10 @@
+yarn.lock
+
+#env
+.env
+config/config.json
+
+#generated files
+nft/metadata/
+
+node_modules/
